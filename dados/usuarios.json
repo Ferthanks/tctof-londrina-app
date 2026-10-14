@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "login": "FerTank",
+    "senha": "Fhrr2007#",
+    "role": "admin",
+    "nome": "Professor / Administrador"
+  },
+  "alunos": [
+    {
+      "nome": "Fernando Henrique Russo",
+      "nascimento": "24082007",
+      "role": "aluno"
+    },
+    {
+      "nome": "João Pedro Silva",
+      "nascimento": "22112009",
+      "role": "aluno"
+    }
+  ]
+}

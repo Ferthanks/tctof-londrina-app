@@ -1,0 +1,95 @@
+{
+    "q9": {
+        "pergunta": "O que fazer se você for o jogador amarelo que está com a bola?",
+        "opcoes_objetivo": [
+            "a) Manter a posse de bola e não perdê-la.",
+            "b) Avançar em direção ao gol adversário.",
+            "c) Atacar a meta adversária."
+        ],
+        "subtitulo_acao": "Realizando para isso:",
+        "opcoes_acao": [
+            "a) Um passe ao companheiro mais próximo.",
+            "b) Uma condução em direção ao gol adversário.",
+            "c) Um chute ao gol."
+        ]   
+    },
+    "q10": {
+        "pergunta": "O que fazer se você é o jogador amarelo que está com a bola?",
+        "opcoes_objetivo": [
+            "a) Manter a posse de bola e não perdê-la.",
+            "b) Avançar em direção ao gol adversário.",
+            "c) Atacar a meta adversária."
+        ],
+        "subtitulo_acao": "Realizando para isso:",
+        "opcoes_acao": [
+            "a) Um passe a um companheiro.",
+            "b) Uma condução em direção ao meu gol, até encontrar apoio de um companheiro.",
+            "c) Uma condução em direção ao gol adversário, até encontrar apoio de um companheiro ou ter a possibilidade de finalizar."
+        ]
+    },
+    "q11": {
+        "pergunta": "O que fazer se você é o jogador amarelo que NÃO está com a bola?",
+        "opcoes_objetivo": [
+            "a) Ajudar a manter a posse de bola e não perdê-la.",
+            "b) Ajudar a avançar em direção ao gol adversário.",
+            "c) Ajudar a atacar a meta adversária."
+        ],
+        "subtitulo_acao": "Realizando para isso:",
+        "opcoes_acao": [
+            "a) Um desmarque em direção ao gol adversário.",
+            "b) Uma espera do passe, sem me movimentar.",
+            "c) Um desmarque em direção ao meu gol."
+        ]
+    },
+    "q12": {
+        "pergunta": "O que fazer se você é o jogador amarelo que está com a bola?",
+        "opcoes_objetivo": [
+            "a) Manter a posse de bola e não perdê-la.",
+            "b) Avançar em direção ao gol adversário.",
+            "c) Atacar a meta adversária."
+        ],
+        "subtitulo_acao": "Realizando para isso:",
+        "opcoes_acao": [
+            "a) Um passe ao companheiro que não está marcado por um defensor.",
+            "b) Uma condução ou drible até encontrar apoio de um companheiro.",
+            "c) Um chute ao gol."
+        ]
+    },
+    "q13": {
+        "pergunta": "O que fazer se você é o jogador amarelo que está com a bola?",
+        "opcoes_objetivo": [
+            "a) Manter a posse de bola e não perdê-la.",
+            "b) Avançar em direção ao gol adversário.",
+            "c) Atacar a meta adversária."
+        ],
+        "subtitulo_acao": "Realizando para isso:",
+        "opcoes_acao": [
+            "a) Um passe ao companheiro que não está marcado por um defensor.",
+            "b) Uma condução até encontrar apoio de um companheiro.",
+            "c) Um chute ao gol."
+        ]
+    },
+    "q14": {
+        "pergunta": "O que fazer se você é o jogador amarelo que NÃO está com a bola?",
+        "opcoes_objetivo": [
+            "a) Ajudar a manter a posse de bola e não perdê-la.",    
+            "b) Ajudar a avançar em direção ao gol adversário.",
+            "c) Ajudar a atacar a meta adversária."
+        ],
+        "subtitulo_acao": "Realizando para isso:",
+        "opcoes_acao": [
+            "a) Um deslocamento em direção ao gol adversário.",
+            "b) Uma espera do passe, sem me movimentar.",
+            "c) Um deslocamento em direção ao meu gol."
+        ]
+    },
+    "q15": {
+        "pergunta": "Selecione em quais imagens você estaria em posição de impedimento:",
+        "opcoes": [
+            "a) Imagem a",
+            "b) Imagem b",
+            "c) Imagem c",
+            "d) Imagem d"
+        ]
+    }
+}
